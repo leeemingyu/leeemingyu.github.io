@@ -2,7 +2,7 @@
 function App() {
   return (
     <div>
-      이민규 포트폴리오
+      leeemingyu 포트폴리오
     </div>
   );
 }
