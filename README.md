@@ -1,1 +1,1 @@
-[사이트 방문하기](https://leeemingyu.github.io/)
+<a href="https://leeemingyu.github.io" target="_blank" rel="noopener noreferrer">방문하기</a>
