@@ -1,9 +1,14 @@
+import Header from "./layouts/Header";
+import MainLayout from "./layouts/MainLayout";
+import Footer from "./layouts/Footer";
 
 function App() {
   return (
-    <div>
-      leeemingyu 포트폴리오
-    </div>
+    <>
+      <Header />
+      <MainLayout />
+      <Footer />
+    </>
   );
 }
 
