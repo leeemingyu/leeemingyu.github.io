@@ -16,7 +16,7 @@ function Header() {
 const HeaderWrapper = styled.div`
   display: flex;
   justify-content: space-between;
-  background-color: #010409;
+  background-color: rgb(11, 6, 30);
   padding: 24px;
 `;
 const HeaderStart = styled.div`
@@ -24,12 +24,13 @@ const HeaderStart = styled.div`
   justify-content: center;
   align-items: center;  
   border-radius: 5px;
-  color: #f0f6fc;
+  color: rgb(210, 210, 210);
   cursor:pointer;
-  padding: 0 6px 0 6px;
+  padding: 4px 6px 4px 6px;
   height: 30px;
   &:hover{
     background-color:rgb(37, 42, 50);
+    color: #f0f6fc;
   }
 `;
 const HeaderEnd = styled.div`
@@ -44,7 +45,7 @@ const HeaderEndItem = styled.div`
   align-items: center;  
   border-radius: 5px;  
   cursor:pointer;
-  padding: 0 6px 0 6px;
+  padding: 4px 6px 4px 6px;
   &:hover{
     background-color:rgb(37, 42, 50);
     color: #f0f6fc;
