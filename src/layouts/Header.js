@@ -18,6 +18,8 @@ const HeaderWrapper = styled.div`
   justify-content: space-between;
   background-color: rgb(11, 6, 30);
   padding: 24px;
+  position: fixed;
+  width: calc(100% - 48px);
 `;
 const HeaderStart = styled.div`
   display: flex;

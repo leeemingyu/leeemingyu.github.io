@@ -33,6 +33,7 @@ function MainLayout() {
 }
 
 const MainLayoutWrapper = styled.div`
+  padding-top: 86px;
 `;
 const MainItem = styled.div`
   background-color:rgb(11, 6, 30);
